@@ -1,0 +1,22 @@
+{
+  "habits": {
+    "Exercise": {
+      "name": "Exercise",
+      "start_date": "2026-01-01",
+      "category": "Health",
+      "archived": false,
+      "history": {
+        "2026-01-09": false
+      }
+    },
+    "Code": {
+      "name": "Code",
+      "start_date": "2026-01-09",
+      "category": null,
+      "archived": false,
+      "history": {
+        "2026-01-09": true
+      }
+    }
+  }
+}
