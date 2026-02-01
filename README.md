@@ -1,21 +1,49 @@
-# Terminal-Based To-Do List
+# Terminal Typing Speed Test 🖥️⌨️
 
-A simple Python terminal application to manage your daily tasks. This project allows you to **add, view, remove, and clear tasks** directly from the terminal.
+A **terminal-themed typing speed tester** built with **CustomTkinter**.  
+Designed to measure **WPM, accuracy, errors, and time** using a minimal, hacker-style UI.(Your free to change the texts in the json file since its kinda bad)
+
+---
 
 ## Features
 
-- Add a task to your to-do list
-- View all tasks in the list
-- Remove a specific task by number
-- Clear all tasks
-- Exit the program
+- 🧠 **Difficulty modes**: Easy, Medium, Hard  
+- ⏱️ **Custom test durations**: 15s, 30s, 60s  
+- 📊 **Live stats**:
+  - Words Per Minute (WPM)
+  - Accuracy (%)
+  - Error count
+  - Remaining time
+- 🎯 **Real-time character comparison**
+  - Correct characters (green)
+  - Incorrect characters (red)
+  - Cursor highlight
+- 🌙 **Dark terminal aesthetic**
 
-## How to Use
+---
 
-1. Clone the repository or download `to-do-list.py`.
-2. Open a terminal and navigate to the folder containing `to-do-list.py`.
-3. Run the program:
+## Screens & UI Style
 
-```bash
-python to-do-list.py
-****
+- Dark background with neon-green text
+- Monospace font (`Consolas`)
+- Terminal-inspired layout
+- Distraction-free design
+
+### Requirement
+- Install Custom tkinter(Ctk) if you don't have it yet, go to terminal and type `pip install customtkinter`
+---
+
+## Tech Stack
+
+- **Python 3**
+- **CustomTkinter**
+- **Tkinter**
+- **JSON** (for text bank)
+
+---
+
+
+
+
+## File Structure
+
