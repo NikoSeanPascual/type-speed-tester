@@ -41,9 +41,3 @@ Designed to measure **WPM, accuracy, errors, and time** using a minimal, hacker-
 - **JSON** (for text bank)
 
 ---
-
-
-
-
-## File Structure
-
